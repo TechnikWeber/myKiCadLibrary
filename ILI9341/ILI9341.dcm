@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ILI9341
+D Color 320x240 TFT Touchscreen, ILI9341 Controller Chip
+K
+F https://www.pjrc.com/store/display_ili9341_touch.html
+$ENDCMP
+#
+#End Doc Library
